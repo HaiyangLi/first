@@ -61,4 +61,7 @@ public class WeiboDaoTest {
 //		fail("Not yet implemented");
 //	}
 
+    public void testSy() {
+        System.out.printls("this is test class");
+    }
 }
